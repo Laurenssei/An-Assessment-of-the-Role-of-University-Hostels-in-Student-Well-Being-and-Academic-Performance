@@ -1,5 +1,4 @@
 # An-Assessment-of-the-Role-of-University-Hostels-in-Student-Well-Being-and-Academic-Performance
-# An Assessment of the Role of University Hostels in Student Well-Being and Academic Performance
 
 📄 Full Report: [View Analysis](analysis.html)
 
